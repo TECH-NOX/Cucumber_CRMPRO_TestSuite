@@ -1,0 +1,7 @@
+testRunner/HomeTestRunner.class
+stepDefs/HomePageStepdefs.class
+stepDefs/Hooks.class
+stepDefs/LoginStepDefs.class
+testRunner/ContactsTestRunner.class
+testRunner/LoginTestRunner.class
+stepDefs/ContactsStepDefs.class

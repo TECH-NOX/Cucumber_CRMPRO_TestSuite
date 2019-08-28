@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: Create new contact
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 29.121 s - in Scenario: Create new contact
